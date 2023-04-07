@@ -1,4 +1,4 @@
-# Terminal Portfolio Website
+# Terminal Portfolio
 
 My perfolio website in terminal version developed with React, TypeScript and Styled-Components.
 
