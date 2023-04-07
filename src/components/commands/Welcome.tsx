@@ -26,7 +26,7 @@ const Welcome: React.FC = () => {
         <div>Welcome to my terminal portfolio. (Version 1.0.0)</div>
         <div>
           This project's source code can be found in this project's{" "}
-          <Link href="https://github.com/mohammadne/mohammadne.github.io">
+          <Link href="https://github.com/mohammadne/terminal-portfolio">
             GitHub repo
           </Link>
           .
